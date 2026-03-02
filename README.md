@@ -191,10 +191,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
 
-**Built with ❤️ for the Stellar ecosystem**
-
-[Stellar](https://stellar.org) • [Freighter](https://freighter.app) • [React](https://react.dev)
-
-</div>
