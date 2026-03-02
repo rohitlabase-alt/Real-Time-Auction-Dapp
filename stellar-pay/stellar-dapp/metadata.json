@@ -1,0 +1,5 @@
+{
+  "name": "Stellar Pay",
+  "description": "A simple payment dApp for sending XLM on the Stellar Testnet using Freighter wallet.",
+  "requestFramePermissions": []
+}
