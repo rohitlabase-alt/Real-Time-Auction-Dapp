@@ -133,8 +133,7 @@ If your balance is 0, click **"Fund with Friendbot"** to receive **10,000 free t
 ### Step 7 — Confirm Transaction
 Approve the transaction in the Freighter popup. You'll see:
 - ✅ **Success message** with a link to view on [Stellar Expert](https://stellar.expert/explorer/testnet)
-- ❌ **Error message** if something goes wrong (e.g., insufficient funds)
-
+- 
 ---
 
 ## 📁 Project Structure
