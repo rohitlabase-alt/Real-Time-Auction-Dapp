@@ -179,16 +179,3 @@ stellar-pay/
 
 ---
 
-## ⚠️ Disclaimer
-
-> This application is built for the **Stellar Testnet** only. Testnet XLM has no real monetary value. Do not use this application with Mainnet credentials or real funds without proper security audits.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-
