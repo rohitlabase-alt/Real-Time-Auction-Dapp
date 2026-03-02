@@ -10,7 +10,13 @@
 
 </div>
 
----
+----
+<img width="1499" height="717" alt="Screenshot 2026-03-02 160720" src="https://github.com/user-attachments/assets/facaff89-04ab-45d8-be3f-7f7879389766" />
+🔐 Authentication Pages
+
+1)Login Page – wallet connect / email login
+2)Register / Sign-up Page (optional if wallet-only)
+3)Profile Setup Page
 
 ## 📖 About
 
