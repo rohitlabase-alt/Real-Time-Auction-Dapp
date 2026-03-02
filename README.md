@@ -68,28 +68,7 @@ git clone https://github.com/your-username/stellar-pay.git
 cd stellar-pay
 ```
 
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Set up Environment Variables
-
-Copy the example env file and add your keys:
-
-```bash
-cp .env.example .env.local
-```
-
-Edit `.env.local` and set your values:
-
-```env
-GEMINI_API_KEY="your-gemini-api-key"
-APP_URL="http://localhost:3000"
-```
-
-### 4. Run the Development Server
+### 2. Run the Development Server
 
 ```bash
 npm run dev
@@ -97,7 +76,7 @@ npm run dev
 
 The app will be available at **http://localhost:3000**
 
-### 5. Build for Production
+### 3. Build for Production
 
 ```bash
 npm run build
