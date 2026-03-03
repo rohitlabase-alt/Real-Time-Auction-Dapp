@@ -11,6 +11,8 @@
 </div>
 
 ----
+<img width="817" height="716" alt="Screenshot 2026-03-02 160146" src="https://github.com/user-attachments/assets/cc40bef4-cd8c-4a42-9a6e-b2a4c41643f2" />
+
 <img width="1499" height="717" alt="Screenshot 2026-03-02 160720" src="https://github.com/user-attachments/assets/facaff89-04ab-45d8-be3f-7f7879389766" />
 🔐 Authentication Pages
 
